@@ -1,5 +1,5 @@
 /* 
- * Project Lab 7b
+ * Project Lab 7b version 1
  * Author: Paulina Noulas
  * For comprehensive documentation and examples, please visit:
  * https://docs.particle.io/firmware/best-practices/firmware-template/
